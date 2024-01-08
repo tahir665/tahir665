@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tahir</h1>
 <h3 align="center">A passionate Full Stack Data Scientist applying CV, NLP & advanced ML to build transformative AI solutions. Expert in developing market-ready products leveraging latest deep learning innovations. Eager to push boundaries of possibility with technology to ethically accelerate AI adoption.From Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basimbashir&label=Profile%20views&color=0e75b6&style=flat" alt="basimbashir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahir665&label=Profile%20views&color=0e75b6&style=flat" alt="tahir665" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basimbashir" alt="basimbashir" /></a> </p>
 
